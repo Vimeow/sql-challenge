@@ -1,6 +1,6 @@
-Assigment: sql-challenge
-Person: Vy Nguyen
-Date: 04/12/2023
+#Assigment: sql-challenge
+#Person: Vy Nguyen
+#Date: 04/12/2023
 
 #Note:
 
